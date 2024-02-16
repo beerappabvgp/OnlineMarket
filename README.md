@@ -9,7 +9,7 @@ Welcome to our Django Online Marketplace! This project is built to provide a pla
 - **Product Upload**: Sellers can easily upload product listings, complete with details such as title, description, price, and images.
 - **Search Functionality**: Robust search functionality enables users to easily find desired products based on various criteria.
 - **User Profiles**: Users have profiles where they can view their uploaded products, purchase history.
-- **Responsive Design**: The user interface is designed to be responsive and accessible across different devices, ensuring a smooth browsing experience for users.
+- **Responsive Design**: The user interface is designed to be responsive and accessible across different devices, ensuring a smooth browsing experience for users. 
 
 ## Getting Started
 
